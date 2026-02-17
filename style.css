@@ -1,0 +1,662 @@
+body{
+    margin: 0;
+}
+
+.t{
+    position: relative;
+}
+
+.test{
+    width: 1920;
+    height: 123px;
+    background-color: black;
+    margin: 0;
+}
+
+.head_txt1{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+    margin-left: 51px;
+    margin-top: 37px;
+}
+
+.head_txt2{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+    margin-left: 200px;
+}
+
+.head_txt3{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+    margin-left: 111px;
+}
+
+.head_txt4{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+    margin-left: 111px;
+}
+
+.head_txt5{
+    font-size: 32px;
+    color: white;
+    display: inline-block;
+    margin-left: 111px;
+}
+
+.sl1_main{
+    position: relative;
+    height: 700px;
+    width: 1270px;
+}
+
+.txt1{
+    font-size: 50px;
+    font-weight: 400;
+    left: 10%;
+    top: 10%;
+    position: absolute;
+    display: inline-block;
+    width: 550px;
+    text-align: center;
+}
+.image1{
+    position: absolute;
+    display: inline-block;
+    border-radius: 20px;
+    left: 63%;
+    top: 3%;
+}
+
+.txt2{
+    position: absolute;
+    display: inline-block;
+    font-size: 40px;
+    top: 40%;
+    left: 17%;
+    font-weight: 400;
+}
+
+.main_txt3{
+    position: absolute;
+    position: relative;
+    display: inline-block;
+    top: 67%;
+    width: 380px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 1%;
+}
+.ico_1{
+    position: absolute;
+    display: inline-block;
+}
+.txt3{
+    position: absolute;
+    display: inline-block;
+    font-size: 26px;
+    top: 30%;
+    width: 350px;
+    left: 2%;
+    font-weight: 600;
+}
+
+.main_txt4{
+    position: absolute;
+    position: relative;
+    display: inline-block;
+    top: 67%;
+    width: 380px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 2%;
+}
+
+.ico_2{
+    position: absolute;
+    display: inline-block;
+}
+.txt4{
+    position: absolute;
+    display: inline-block;
+    font-size: 26px;
+    top: 30%;
+    width: 350px;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_main{
+    position: relative;
+    width: 1270px;
+    height: 700px;
+}
+
+.sl2_main_1{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    width: 500px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+}
+
+.cr1{
+    position: absolute;
+    display: inline-block;
+}
+
+.ico_txt_1{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 5%;
+    left: 16px;
+}
+
+.sl2_txt1{
+    position: absolute;
+    display: inline-block;
+    display: inline-block;
+    font-size: 30px;
+    top: 25%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_txt2{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 45%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_main_2{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 32%;
+    width: 500px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+}
+
+.cr2{
+    position: absolute;
+    display: inline-block;
+}
+
+.ico_txt_2{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 5%;
+    left: 16px;
+}
+
+.sl2_txt3{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 25%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_txt4{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 45%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_main_3{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 64%;
+    width: 500px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+}
+
+.cr3{
+    position: absolute;
+    display: inline-block;
+}
+
+.ico_txt_3{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 5%;
+    left: 16px;
+}
+
+.sl2_txt5{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 25%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.sl2_txt6{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    top: 45%;
+    left: 2%;
+    font-weight: 600;
+}
+
+.image2{
+    position: absolute;
+    display: inline-block;
+    border-radius: 20px;
+    left: 82%;
+}
+
+.image3{
+    position: absolute;
+    display: inline-block;
+    border-radius: 20px;
+    left: 45%;
+}
+
+.sl2_hed_txt{
+    font-size: 50px;
+    text-align: center;
+    font-weight: 600;
+}
+
+.sl3_main{
+    position: relative;
+    width: 1270px;
+    height: 800px;
+}
+
+.sl3_hed_txt1{
+    position: absolute;
+    display: inline-block;
+    font-size: 40px;
+    left: 1%;
+}
+
+.sl3_hed_txt2{
+    position: absolute;
+    display: inline-block;
+    top: 5%;
+    width: 550px;
+    font-size: 20px;
+    left: 1%;
+}
+
+.sl3_main_1{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 11%;
+    width: 600px;
+    height: 160px;
+    background-color: #A1A0A0;
+    left: 1%;
+    border-radius: 20px;
+}
+
+.ico_1{
+    position: absolute;
+    display: inline-block;
+}
+
+.sl3_txt_1{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    width: 500px;
+    left: 16%;
+    top: 6%;
+}
+
+.sl3_main_2{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 40%;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    width: 600px;
+    height: 160px;
+    left: 1%;
+}
+
+.ico_2{
+    position: absolute;
+    display: inline-block;
+}
+
+.sl3_txt_2{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    width: 500px;
+    left: 16%;
+    top: 6%;
+}
+
+.sl3_main_3{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 70%;
+    width: 600px;
+    height: 160px;
+    background-color: #A1A0A0;
+    left: 1%;
+    border-radius: 20px;
+}
+
+.ico_3{
+    position: absolute;
+    display: inline-block;
+}
+
+.sl3_txt_3{
+    position: absolute;
+    display: inline-block;
+    font-size: 30px;
+    width: 500px;
+    left: 16%;
+    top: 6%;
+}
+
+.image4{
+    position: absolute;
+    left: 90%;
+    border-radius: 20px;
+    display: inline-block;
+}
+
+.image5{
+    position: absolute;
+    border-radius: 20px;
+    left: 60%;
+    display: inline-block;
+}
+
+.sl4_main{
+    position: relative;
+    width: 1270px;
+    height: 600px;
+}
+
+.sl4_hed_txt1{
+    position: absolute;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 600;
+    left: 13%;
+}
+
+.sl4_hed_txt2{
+    position: absolute;
+    text-align: center;
+    top: 15%;
+    font-size: 30px;
+    font-weight: 600;
+    left: 40%;
+}
+
+.image6{
+    position: absolute;
+    top: 25%;
+    border-radius: 20px;
+    left: 1%;
+}
+
+.image7{
+    position: absolute;
+    top: 25%;
+    border-radius: 20px;
+    left: 31%;
+}
+
+.image8{
+    position: absolute;
+    top: 25%;
+    border-radius: 20px;
+    left: 65%;
+}
+
+.image9{
+    position: absolute;
+    top: 25%;
+    border-radius: 20px;
+    left: 95%;
+}
+
+.sl5_main{
+    position: relative;
+    width: 1270px;
+    height: 600px;
+}
+
+.sl6_main{
+    position: relative;
+    width: 1270px;
+    height: 600px;
+}
+
+.sl7_main{
+    position: relative;
+    width: 1270px;
+    height: 600px;
+}
+
+.sl8_main{
+    position: relative;
+    width: 1270px;
+    height: 900px;
+}
+
+.sl8_hed_txt{
+    position: absolute;
+    display: inline-block;
+    font-size: 40px;
+    font-weight: 600;
+    text-align: center;
+    left: 40%;
+}
+
+.sl8_main_1{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 5%;
+    width: 750px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 60%;
+}
+
+.sl8_ico_1{
+    position: absolute;
+    display: inline-block;
+    left: 1%;
+    top: 3%;
+}
+
+.sl8_main_2{
+    position: relative;
+    position: absolute;
+    top: 28%;
+    width: 750px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 60%;
+}
+
+.sl8_ico_2{
+    position: absolute;
+    display: inline-block;
+    left: 1%;
+}
+.sl8_main_3{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 51%;
+    width: 750px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 60%;
+}
+
+.sl8_ico_3{
+    position: absolute;
+    display: inline-block;
+    left: 1%;
+    top: 4%;
+}
+
+.sl8_main_4{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    top: 74%;
+    width: 750px;
+    height: 200px;
+    background-color: #A1A0A0;
+    border-radius: 20px;
+    left: 60%;
+}
+
+.sl8_ico_4{
+    position: absolute;
+    display: inline-block;
+    top: 3%;
+    left: 1%;
+}
+
+.image10{
+    position: absolute;
+    border-radius: 20px;
+    top: 5%;
+    left: 1%;
+}
+
+.image11{
+    position: absolute;
+    border-radius: 20px;
+    left: 30%;
+    top: 5%;
+}
+
+.image12{
+    position: absolute;
+    border-radius: 20px;
+    top: 52%;
+    left: 30%;
+}
+
+.image13{
+    position: absolute;
+    border-radius: 20px;
+    top: 52%;
+    left: 1%;
+}
+
+.footer{
+    position: relative;
+    width: 100%;
+    height: 400px;
+    background-color: black;
+}
+
+.footer_txt_1{
+    position: absolute;
+    color: white;
+    top: 10%;
+    left: 1%;
+}
+
+.footer_txt_2{
+    position: absolute;
+    color: white;
+    top: 40%;
+    width: 250px;
+    left: 1%;
+}
+
+.footer_txt_3{
+    position: absolute;
+    color: white;
+    top: 60%;
+    left: 1%;
+}
+
+.footer_txt_4{
+    position: absolute;
+    color: white;
+    top: 85%;
+    left: 1%;
+}
+
+.footer_txt_5{
+    position: absolute;
+    color: white;
+    left: 70%;
+    top: 10%;
+}
+
+.footer_txt_6{
+    position: absolute;
+    color: white;
+    left: 70%;
+    top: 30%;
+}
+
+.tel{
+    position: absolute;
+    color: white;
+    left: 70%;
+    top: 15%;
+}
+
+.footer_ico_1{
+    position: absolute;
+    left: 70%;
+    top: 40%;
+}
+
+.footer_ico_2{
+    position: absolute;
+    left: 75%;
+    top: 40%;
+}
+
+.line{
+    position: absolute;
+    background-color: white;
+    height: 1px;
+    top: 70%;
+    width: 50%;
+}
